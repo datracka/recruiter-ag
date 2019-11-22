@@ -167,6 +167,13 @@ a:focus {
   flex: none;
   width: 100%;
   padding: 0.75em 0 0 0;
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .demos {
+    display: block;
+  }
 }
 
 .demo {
@@ -405,6 +412,12 @@ a:focus {
   right: 3vw;
   color: #939391;
   pointer-events: visible;
+}
+
+@media (min-width: 640px) {
+  .btn--menu {
+    display: none;
+  }
 }
 
 .btn--close {

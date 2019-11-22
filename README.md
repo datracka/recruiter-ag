@@ -14,8 +14,12 @@ https://tympanus.net/Development/DecorativeBackgrounds/index5.html
 
 ### Overview
 
-- Copies
-- 2 images
+Slide 1: 
+
+From Recruiters to Recruiters
+
+
+
 
 ### Stories
 
